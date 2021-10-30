@@ -1,0 +1,1 @@
+web: gunicorn crudproject2.wsgi
